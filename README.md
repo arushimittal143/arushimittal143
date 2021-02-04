@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arushimittal143&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arushimittal143&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arushimittal143&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
