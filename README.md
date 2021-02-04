@@ -43,4 +43,3 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arushimittal143&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
