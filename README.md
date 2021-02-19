@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arushimittal1431&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
