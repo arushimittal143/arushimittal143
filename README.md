@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arushimittal143)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h1 align="center">Hi , I'm Arushi 👋</h1>
+<h1 align="center">Hey , I'm Arushi 👋</h1>
 <h3 align="center">I am a Practical knowledge seeker and Full Stack Developer💻.</h3>
 
 <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" align="right" width="400">
