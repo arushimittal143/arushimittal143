@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## Github Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arushimittal143&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arushimittal143&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-##
+## Github Streaks:
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arushimittal143&hide_border=true" />
 </a>
