@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Arushi 👋</h1>
 <h3 align="center">I am a Practical knowledge seeker and Full Stack Developer💻.</h3>
 
+<img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" align="right" width="400">
+<!--<img src="https://media.giphy.com/media/l1J3WARPMiHPd8ZFK/giphy.gif" align="right" width="450">-->
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
