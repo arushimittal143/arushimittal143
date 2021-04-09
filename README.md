@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **arushimittal321@gmail.com**
 
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
+
 ## Connect with me:
 <p align="left">
 <a href="https://github.com/arushimittal143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arushimittal143" height="30" width="40" /></a>
@@ -48,8 +51,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arushimittal143&hide_border=true" />
 </a>
 
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
+
 
 ### Trending Repositories 📖
 
