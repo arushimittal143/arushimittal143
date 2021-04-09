@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey , I'm Arushi 👋</h1>
 <h3 align="center">I am a Practical knowledge seeker and Full Stack Developer💻.</h3>
 
-<img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" align="right" width="400">
+<!--<img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" align="right" width="400">-->
 <!--<img src="https://media.giphy.com/media/l1J3WARPMiHPd8ZFK/giphy.gif" align="right" width="450">-->
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
@@ -48,7 +48,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arushimittal143&hide_border=true" />
 </a>
 
-
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
 
 ### Trending Repositories 📖
 
@@ -59,5 +60,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arushimittal143&repo=Movies-Search-App" />
 </a>
 
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
+
