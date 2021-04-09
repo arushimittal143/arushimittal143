@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arushimittal143&hide_border=true" />
 </a>
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
+
 
 
 ### Trending Repositories 📖
@@ -60,3 +59,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arushimittal143&repo=Movies-Search-App" />
 </a>
 
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
