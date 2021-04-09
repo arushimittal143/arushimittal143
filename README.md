@@ -50,3 +50,13 @@ Here are some ideas to get you started:
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushimittal143&label=Profile%20views&color=0e75b6&style=flat" alt="arushimittal143" /> </p>
 
+
+### Trending Repositories 📖
+
+<a href="https://github.com/arushimittal143/Data-Structures">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arushimittal143&repo=Data-Structures" />
+</a>
+<a href="https://github.com/arushimittal143/Movies-Search-App">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arushimittal143&repo=Movies-Search-App" />
+</a>
+
