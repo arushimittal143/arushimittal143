@@ -43,6 +43,30 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+### Github Profile Trophy
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arushimittal143&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
+
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+
+---
+
+
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=arushimittal143&show_icons=true&hide_border=true"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushimittal143&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+    />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushimittal143&hide_border=true" height="180em" />
+</p>
+
 ## Github Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arushimittal143&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arushimittal143&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
