@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Taken challenge to complete **Striver's SDE Sheet** in 60 days.
 
 - 💬 Ask me about **anything, I am happy to help.**
 
